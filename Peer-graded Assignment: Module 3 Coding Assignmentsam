@@ -1,0 +1,27 @@
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Food, LLC</a>
+    </div>
+    <ul class="nav navbar-nav visible-xs">
+      <li><a href="#">Chicken</a></li>
+      <li><a href="#">Beef</a></li>
+      <li><a href="#">Sushi</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Page Heading -->
+<div class="container">
+  <h1 class="text-center">Our Menu</h1>
+</div>
+
+<!-- Grid Section -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12" style="height: 1000px; background-color: #f0f0f0;">
+      <!-- Add content here -->
+    </div>
+  </div>
+</div>
